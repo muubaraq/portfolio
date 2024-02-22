@@ -40,7 +40,7 @@ export default function Home() {
     topPositions,
     pageScrollPosition
   }
-  let skillsHeaderProps = {small: "Services", large: "Skill-Set"}
+  let skillsHeaderProps = {small: "Services", large: "Skill repertoire"}
   let projectsHeaderProps = {small: "Works", large: "Recent Projects"}
 
   let headerPosition = isScrolled ? "fixed top-0  py-4" : "py-8"
