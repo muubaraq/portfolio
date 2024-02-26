@@ -3,7 +3,7 @@ import Image from "next/image";
 const ProfilePhoto = () => {
     return (
         <div className="w-full">
-            <Image src="/images/profile.jpg" 
+            <Image src="/images/mubi.jpg" 
             width={400} 
             height={535} 
             alt="Mubaraq - React Developer"
