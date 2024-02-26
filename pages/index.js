@@ -83,7 +83,7 @@ export default function Home() {
       <Head>
         <title>Mubaraq - React Developer</title>
         <meta name="description" content="I'm Mubaraq, a Frontend React Developer. I build beautiful, fun and interactive things with code. Programmer portfolio website built with NextJS and Tailwind CSS." />
-        <meta name="google-site-verification" content="" />
+        <meta name="google-site-verification" content="B_c-g_q_1T3tzOKklzZkKITw4vTk0e---qndFDumv6o" />
         <meta name="robots" content="index, follow" />
         <meta name="keywords" content="mubaraq, portfolio, react, developer, frontend" />
         <meta name="author" content="Mubaraq Abuhasan" />
