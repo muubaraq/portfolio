@@ -90,13 +90,13 @@ export default function Home() {
         <meta property="og:type" content="portfolio" />
         <meta property="og:title" content="Mubaraq - React Developer" />
         <meta property="og:description" content="I'm Mubaraq, a Frontend React Developer. I build beautiful, fun and interactive things with code. Programmer portfolio website built with NextJS and Tailwind CSS." />
-        <meta property="og:url" content="" />
+        <meta property="og:url" content="https://muubaraq.vercel.app/" />
         <meta name="twitter:card" content="portfolio" />
         <meta name="twitter:title" content="Mubaraq - React Developer" />
-        <meta name="twitter:url" content="" />
+        <meta name="twitter:url" content="https://muubaraq.vercel.app/" />
         <meta name="twitter:site" content="@muubaraq" />
         <meta name="twitter:description" content="I'm Mubaraq, a Frontend React Developer. I build beautiful, fun and interactive things with code. Programmer portfolio website built with NextJS and Tailwind CSS." />
-        <link rel="canonical" href="" />
+        <link rel="canonical" href="https://muubaraq.vercel.app/" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
