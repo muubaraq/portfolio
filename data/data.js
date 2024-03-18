@@ -13,7 +13,7 @@ export const SKILLS = [
     {source: "/images/skills/nextjs.svg", name: "Next JS"},
     {source: "/images/skills/firebase.png", name: "FireBase"},
     {source: "/images/skills/wordpress.png", name: "WordPress"},
-   // {source: "/images/skills/nodejs.svg", name: "Node JS"},
+    {source: "/images/skills/nodejs.svg", name: "Node JS"},
     //{source: "/images/skills/express.svg", name: "Express JS"},
    // {source: "/images/skills/mongodb.svg", name: "Mongo DB"},
     // {source: "/images/skills/php.svg", name: "PHP"},
@@ -64,7 +64,7 @@ const PROJECTS = [
     },
     {
         img: "/images/projects/testtask.png", 
-        title: "Wisdom Springs Schools", 
+        title: "Test Task", 
         description: "Test Assignment", 
         skills: [
             "/images/skills/html5.svg", "/images/skills/javascript.svg", "/images/skills/react.svg"
