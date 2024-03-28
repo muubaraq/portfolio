@@ -12,7 +12,7 @@ const nextConfig = {
           },
           {
             key: 'Link',
-            value: ' < https://muubaraq.vercel.app/ >; rel="canonical"',
+            value: ' < https://muubaraq-portfolio.vercel.app/ >; rel="canonical"',
           },
         ],
         source: '/:path*',
